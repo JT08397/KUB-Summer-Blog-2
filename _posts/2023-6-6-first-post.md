@@ -3,7 +3,12 @@ title: June, 5th, 2023
 layout: post
 post-image: https://th.bing.com/th/id/OIP.xm3dDKCumvwrvCU3NKZ5qwHaE8?pid=ImgDet&rs=1 
 description: This is what I did on June, 5th, 2023
+tags: 
+- Setup
+- First
+- Work
 ---
+
 
 - I got to the KUB Conference Center at 8:00am sat around for alittle waiting for everyone to get there. Once everyone was there they talked about many things like safey, as they were doing that we got are pictures taken and got are KUB cards.
 - Soon after Lucas (My mentor) picked me up and we went to the Building I would be working at. When we walked we went upstairs and i met the people I would be in the same with. They were all UT students and seemed really cool then soon after I meet my other mentors Jacob, Jayden and Anthony.
