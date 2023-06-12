@@ -1,7 +1,7 @@
 ---
 title: June, 6th, 2023
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
+post-image: "https://th.bing.com/th/id/OIP.ctCfbNQ8Qyqiab45TbNFBAHaFj?pid=ImgDet&rs=1"
 description: What I did on June, 6th, 2023
 tags:
 - sample
