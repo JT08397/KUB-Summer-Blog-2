@@ -2,6 +2,6 @@
 title: KUB Pictures
 layout: page
 ---
-![Longhorn Steakhouse](https://th.bing.com/th/id/OIP.ctCfbNQ8Qyqiab45TbNFBAHaFj?pid=ImgDet&rs=1)
+![Meeting the Major](![Alt text](Screenshot_20230612_121022_Instagram.jpg))
 
-Longhorn Steakhouse
+This is me and my frineds meeting the major at kub
