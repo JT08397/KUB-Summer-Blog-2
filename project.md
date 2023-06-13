@@ -1,4 +1,4 @@
 ---
-layout: Project
+layout: project
 title: KUB Pictures
 ---
