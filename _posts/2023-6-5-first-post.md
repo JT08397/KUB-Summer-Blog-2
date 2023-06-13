@@ -10,7 +10,7 @@ tags:
 ---
 
 
-- I got to the KUB Conference Center at 8:00am sat around for alittle waiting for everyone to get there. Once everyone was there they talked about many things like safey, as they were doing that we got are pictures taken and got are KUB cards.
-- Soon after Lucas (My mentor) picked me up and we went to the Building I would be working at. When we walked we went upstairs and i met the people I would be in the same with. They were all UT students and seemed really cool then soon after I meet my other mentors Jacob, Jayden and Anthony.
-- They showed me around the building as I got my office setup where a met a alot of people Like this one woman that skydrives and hung off a plane.
-- Next I signed some paperwork and started working on my workstation setup and it was very long and hard where i didnt understand alot of it. Lucky one of my coworkers Jake help me out alot on it so I could get it done in about a day. As the day was wrapping up Lucas put my name plate up and I was fulling part of the team.
+- I arrived at the KUB Conference Center at 8:00 am and sat around for a little while, waiting for everyone to arrive. Once everyone was present, various topics were discussed, including safety. During that time, we had our pictures taken and received our KUB cards.
+- Afterward, my mentor Lucas picked me up, and we headed to the building where I would be working. Upon reaching the building, we went upstairs, and I was introduced to the individuals with whom I would be sharing the workspace. They were all UT students and seemed really cool. Shortly after, I met my other mentors, Jacob, Jayden, and Anthony.
+- They gave me a tour of the building, and I had my office set up. I encountered many people during this process, including a woman who skydives and hangs off planes.
+- Next, I completed some paperwork and began setting up my workstation, which proved to be challenging and time-consuming. There were aspects of it that I didn't quite understand. Fortunately, one of my coworkers, Jake, provided a lot of help, and I managed to finish it within a day. As the day was coming to an end, Lucas put up my nameplate, officially making me a part of the team.
