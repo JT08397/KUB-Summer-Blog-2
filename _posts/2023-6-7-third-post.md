@@ -9,6 +9,6 @@ tags:
 - Work
 ---
 
-- I got to the office and look out some stuff on markdown and found a good site that showed me how to do somethings. And after that I got on call with my mentors and we made my website public.
-- After I added somethings to my website like some links and blog posts.Then I got on a call with some coworkers and they all showed me some of the websites they made and give me some helpful tips.
-- And then for the rest of the day I just worked on my website and added some small things. I also looked into how to add images and themes but I havent got that to work just yet.
+- When I arrived at the office, I searched for information on Markdown and came across a helpful website that provided guidance on certain aspects. Following that, I had a call with my mentors, and together we made my website public.
+- Afterwards, I proceeded to add various elements to my website, such as links and blog posts. Subsequently, I had a call with my coworkers, who showcased their own websites and offered me valuable tips.
+- For the remainder of the day, I dedicated my time to working on my website, making minor additions. I also explored the process of adding images and themes, although I haven't managed to make it work just yet.

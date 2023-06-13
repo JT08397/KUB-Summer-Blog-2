@@ -9,4 +9,5 @@ tags:
 - Work
 ---
 
-- After a couple of hours trying to get my website to have a theme. I learned I had to restart if I wanted to use the theme I liked. So I restarted and was mostly able to do it all by myself and get the website up and running quickly. Then I went on break and went on a workers with some coworkers outside. After are work I added post, pictures, about me, links, and more to my website. After that it was time to go home so I left fot the day.
+- After spending a couple of hours attempting to apply a theme to my website, I discovered that I would need to restart in order to use the theme I preferred. So, I decided to restart and, for the most part, managed to accomplish the task independently, getting the website up and running swiftly. Following that, I took a break and went on a walk outdoors with some coworkers.
+- Upon returning to work, I added posts, pictures, an "about me" section, links, and more to my website. With these additions completed, it was time to wrap up for the day, so I left the office.

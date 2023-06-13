@@ -9,4 +9,4 @@ tags:
 - Blog
 ---
 
-- After a few hours I finished my workstation setup and started work on my website on call with my mentors. But alittle after I started I went to lunch with some of my coworkers at long horn. Then when I got back I got back to work on my website and started to write in it.
+- After spending a few hours completing my workstation setup, I began working on my website while being on a call with my mentors. However, shortly after I started, I took a break for lunch with some of my coworkers at Longhorn. Once I returned from lunch, I resumed working on my website and started writing content for it.
