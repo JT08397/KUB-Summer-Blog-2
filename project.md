@@ -1,5 +1,5 @@
 ---
-layout: Pictures
+layout: Project
 title: KUB Pictures
 ---
 
