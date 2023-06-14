@@ -5,7 +5,7 @@ post-image: https://th.bing.com/th/id/OIP.EwIbMnlr7X44YOEBmxWBIQHaE7?pid=ImgDet&
 description: What I did on June, 12th, 2023
 tags:
 - Code
-- Blog
+- Design
 - Work
 ---
 
