@@ -1,7 +1,7 @@
 ---
 title: June, 20th, 2023
 layout: post
-post-image: https://www.bing.com/images/blob?bcid=TqlUhCptPr4F4A
+post-image: https://i.ytimg.com/vi/qiyPLS_phN4/maxresdefault.jpg
 description: What I did on June, 20th, 2023
 tags:
 - Teamwork
